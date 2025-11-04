@@ -109,16 +109,16 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
 ## 📊 Dashboard Preview
 
-![Superstore Dashboard](Dashboard_Screenshot.png)
+![Superstore Dashboard](Superstore_Dashboard_Screenshot.png)
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**  
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🐙 GitHub: [Your GitHub Profile]
+**Ayush Yadav**  
+📧 Email: Ayushy0302@gmail.com  
+💼 LinkedIn: Ayush Yadav
+🐙 GitHub: Ayushyadav2002
 
 ---
 

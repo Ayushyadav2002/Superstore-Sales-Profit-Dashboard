@@ -1,5 +1,4 @@
 # 📊 Superstore Sales & Profit Dashboard
-
 **Interactive Power BI dashboard uncovering key profit drivers, regional performance, and discount inefficiencies across 9,994+ retail transactions (2014–2017).**
 
 ---
@@ -80,3 +79,50 @@ Total Profit = SUM('Sample - Superstore'[Profit])
 Total Quantity = SUM('Sample - Superstore'[Quantity])
 Average Discount = AVERAGE('Sample - Superstore'[Discount])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+```
+
+### **Dashboard Design**
+- Applied professional color theme for visual consistency  
+- Enabled cross-filtering across all visualizations  
+- Added interactive slicers for dynamic exploration
+
+---
+
+## 📂 Repository Contents
+
+- `Superstore_Sales_Dashboard.pbix` – Power BI dashboard file  
+- `Sample - Superstore.csv` – Source dataset  
+- `Dashboard_Screenshot.png` – Dashboard preview  
+- `README.md` – Project documentation
+
+---
+
+## 🚀 How to Use
+
+1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)  
+2. Clone this repository or download the `.pbix` file  
+3. Open `Superstore_Sales_Dashboard.pbix` in Power BI Desktop  
+4. Use slicers to filter by **Region**, **Year**, or **Category**  
+5. Click any chart element to cross-filter other visuals
+
+---
+
+## 📊 Dashboard Preview
+
+![Superstore Dashboard](Dashboard_Screenshot.png)
+
+---
+
+## 👤 Author
+
+**[Your Name]**  
+📧 Email: [Your Email]  
+💼 LinkedIn: [Your LinkedIn Profile]  
+🐙 GitHub: [Your GitHub Profile]
+
+---
+
+## 📝 License & Dataset Source
+
+Dataset: [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+This project is for educational and portfolio purposes.

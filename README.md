@@ -109,7 +109,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
 ## 📊 Dashboard Preview
 
-![Superstore Dashboard](Superstore_Dashboard_Screenshot.png)
+![Superstore Dashboard](Superstore_Dashboard_Screenshot.png.png)
 
 ---
 
